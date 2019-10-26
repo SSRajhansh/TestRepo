@@ -1,1 +1,3 @@
-hello  this is myy 
+edited message
+
+Next commit to git
